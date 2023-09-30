@@ -1,12 +1,14 @@
 ### 👋 Hi there 
 
-스타트업 디자인 시스템 디자이너 <br>
-메이커들의 효율을 위해 고민합니다.<br>
-구조화와 정리, 인터랙션을 좋아합니다.
+I am working as a digital design system product designer in Korea. <br>
+Most of my time is spent thinking about processes <br>for the productivity of organization members.- _And I love digital tools for that_<br>
+
+한국에서 디자인 시스템 프로덕트 디자이너로 일하고 있습니다. <br>
+대부분의 시간을 메이커의 생산성을 높일 수 있는 프로세스에 대한 고민으로 보냅니다.<br>
+그리고 이를 도와줄 수 있는 디지털 도구들을 좋아합니다.😁
+
 
 <p>
-<!-- <a href="https://www.notion.so/miniyoon/Minhee-Yoon-deca2ff59d4345119eed55b1ecb2d53a">
-<img src="https://img.shields.io/badge/Platform Designer-009BEE?style=flat-square&logo=Notion&logoColor=white&link="/></a> -->
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&link="/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&link="/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white&link="/>
