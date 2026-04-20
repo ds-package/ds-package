@@ -1,11 +1,12 @@
 ### 👋 Hi there 
 
-I am working as a digital design system product designer in Korea. <br>
-Most of my time is spent thinking about processes <br>for the productivity of organization members.- _And I love digital tools for that_<br>
+비효율을 없애는 일을 하면서도, 정작 좋아하는 것 앞에서는 가장 비효율적으로 알아갑니다.
+돌아가더라도 직접 부딪히는 쪽이 더 재밌습니다.
 
-한국에서 디자인 시스템 프로덕트 디자이너로 일하고 있습니다. <br>
-대부분의 시간을 메이커의 생산성을 높일 수 있는 프로세스에 대한 고민으로 보냅니다.<br>
-그리고 이를 도와줄 수 있는 디지털 도구들을 좋아합니다.😁
+삽질을 기록하고, 가끔 포트폴리오도 겸합니다. 잡다하지만 그냥 만드는 게 재밌어서입니다.
+대체로 뭔가 만들다 벌어지는 이야기들이고, 그런 이야기를 많이 하고 싶습니다.
+
+앞으로 무슨 역할이 될지는 모르겠지만, 지금은 주로 플랫폼 디자이너입니다.
 
 
 <p>
